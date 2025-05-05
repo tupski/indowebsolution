@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="400" viewBox="0 0 500 400">
+  <rect width="500" height="400" fill="#f8fafc" rx="10" />
+  
+  <!-- Computer Screen -->
+  <rect x="100" y="100" width="300" height="200" fill="#e2e8f0" rx="5" />
+  <rect x="110" y="110" width="280" height="170" fill="#ffffff" />
+  
+  <!-- Website Layout on Screen -->
+  <rect x="120" y="120" width="260" height="30" fill="#e53e3e" />
+  <rect x="130" y="130" width="100" height="10" fill="#ffffff" />
+  <rect x="240" y="130" width="130" height="10" fill="#ffffff" opacity="0.7" />
+  
+  <rect x="120" y="160" width="160" height="100" fill="#f1f5f9" />
+  <rect x="290" y="160" width="90" height="100" fill="#f1f5f9" />
+  
+  <rect x="130" y="170" width="140" height="10" fill="#94a3b8" />
+  <rect x="130" y="190" width="140" height="5" fill="#94a3b8" />
+  <rect x="130" y="205" width="140" height="5" fill="#94a3b8" />
+  <rect x="130" y="220" width="140" height="5" fill="#94a3b8" />
+  <rect x="130" y="235" width="100" height="15" fill="#e53e3e" rx="3" />
+  
+  <rect x="300" y="170" width="70" height="40" fill="#94a3b8" />
+  <rect x="300" y="220" width="70" height="5" fill="#94a3b8" />
+  <rect x="300" y="235" width="70" height="5" fill="#94a3b8" />
+  
+  <!-- Code Elements -->
+  <text x="150" y="320" font-family="monospace" font-size="12" fill="#334155">&lt;div class="container"&gt;</text>
+  <text x="170" y="340" font-family="monospace" font-size="12" fill="#334155">&lt;h1&gt;Welcome&lt;/h1&gt;</text>
+  <text x="150" y="360" font-family="monospace" font-size="12" fill="#334155">&lt;/div&gt;</text>
+  
+  <!-- Decorative Elements -->
+  <circle cx="400" cy="80" r="30" fill="#e53e3e" opacity="0.2" />
+  <circle cx="80" cy="250" r="40" fill="#e53e3e" opacity="0.2" />
+  <circle cx="420" cy="320" r="25" fill="#e53e3e" opacity="0.2" />
+</svg>
